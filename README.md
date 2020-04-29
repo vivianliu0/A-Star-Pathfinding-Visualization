@@ -1,2 +1,2 @@
-# A-Star-Pathfinding-Visualization
-A visual simulation of the A* Pathfinding algorithm using Euclidean Heuristics 
+# Pathfinding Visualization
+A visual simulation of the A*, Dijkstra, and Bidirection Breadth First Search pathfinding algorithms
